@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    overflow: hidden;
+    background-image: -webkit-linear-gradient(
+      90deg,
+      rgba(146, 98, 41, 1) 0%,
+      rgba(229, 213, 136, 1) 35%,
+      rgba(146, 98, 41, 1) 100%
+    );
+  }
