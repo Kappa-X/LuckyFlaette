@@ -1,5 +1,8 @@
 # LuckyFlaette
 
+Beim öffen des Projekts(Webseite) muss zuerst die API gestartet werden. Man muss in VSCode ein Integriertes Terminal
+für den API ordner öffen und den command "node app" eingeben um die API zu starten. Danach kann man den Liveserver der
+HTML seit starten und es sollte alles funktionieren
 ## Quellen
 
 Slots:
