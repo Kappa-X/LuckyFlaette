@@ -1,7 +1,7 @@
 # LuckyFlaette
 
-## Link zu itch.io:https://krymmhd.itch.io/luckyflatte
-## Dropbox Link für das Unity Projekt von Slots: https://www.dropbox.com/s/fl2v9u5o7w5uzef/LuckyFlaetteSlotsProjekt.zip?dl=0
+### Link zu itch.io:https://krymmhd.itch.io/luckyflatte
+### Dropbox Link für das Unity Projekt von Slots: https://www.dropbox.com/s/fl2v9u5o7w5uzef/LuckyFlaetteSlotsProjekt.zip?dl=0
 
 Nach dem öffen des Projekts(Webseite) muss zuerst die API gestartet werden. Man muss in VSCode ein Integriertes Terminal
 für den API ordner öffen und den command "node app" eingeben um die API zu starten. Danach kann man den Liveserver der
